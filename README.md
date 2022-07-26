@@ -5,7 +5,7 @@
 
 
 
----Lodz University of Technology--- <br />
+---Lodz University of Science and Technology--- <br />
 :green_circle: Bachelor of Automation and Robotics <br />
 
 ---Wrocław University of Science and Technology--- <br />
