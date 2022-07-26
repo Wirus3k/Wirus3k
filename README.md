@@ -1,6 +1,6 @@
 ### Hi there 👋
-:man_technologist: Paweł Wira
-:hourglass:23 years old
+:man_technologist: Paweł Wira <br />
+:hourglass:23 years old <br />
 
 <!--
 **Wirus3k/Wirus3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
