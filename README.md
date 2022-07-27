@@ -1,7 +1,6 @@
 ### Hi there 👋
-:man_technologist: Paweł Wira<br />
-:hourglass: 23 years old<br />
-Polish Man
+:man_technologist: Paweł Wira <br />
+:hourglass: 23 years old <br />
 
 
 
