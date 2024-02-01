@@ -1,6 +1,6 @@
 ### Hi there 👋
 :man_technologist: Paweł Wira <br />
-:hourglass: 24 years old <br />
+:hourglass: 25 years old <br />
 
 
 
@@ -9,6 +9,6 @@
 :green_circle: Bachelor of Automation and Robotics <br />
 
 ---Wrocław University of Science and Technology--- <br />
-:red_circle: Student of IT Automation Systems <br />
+:red_circle: Master of IT Automation Systems <br />
 
 
